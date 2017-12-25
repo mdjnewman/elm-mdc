@@ -42,7 +42,9 @@ module Material.Options
         , dispatch
         )
 
-{-| TODO
+{-| Properties, styles, and event definitions.
+
+@docs Property, Style, aria, attribute, center, container, cs, css, data, disabled, dispatch, div, id, img, input, many, maybe, nop, on, on1, onBlur, onCheck, onClick, onDoubleClick, onFocus, onInput, onMouseDown, onMouseEnter, onMouseLeave, onMouseOut, onMouseOver, onMouseUp, onToggle, onWithOptions, scrim, span, styled, styled_, stylesheet, when
 -}
 
 import Html exposing (Html, Attribute)
